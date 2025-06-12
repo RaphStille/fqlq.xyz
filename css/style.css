@@ -1,12 +1,16 @@
 @font-face {
     font-family: 'EduCursive';
     src: url('../fonts/EduCursive/EduCursive.ttf') format('truetype');
-    font-weight: 400;
     font-style: normal;
+}
+
+body {
+    background-color: gray;
+    color: white;
 }
 
 .h1text {
     font-family: 'Educursive', cursive;
     font-size: 40px;
-    font-weight: lighter;
+    font-weight: 400;
 }
