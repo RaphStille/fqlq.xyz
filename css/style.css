@@ -1,12 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&display=swap');
-
-@font-face {
-    font-family: 'EduCursive';
-    src: local('Edu NSW ACT Hand Pre'), local('EduCursive'),
-         url('https://fonts.gstatic.com/s/edunswacthandpre/v1/xyz.woff2') format('woff2');
-    font-weight: 400 700;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand:wght@400..700&display=swap');
 
 body {
     background-color: #2d2d2d; 
@@ -14,7 +6,7 @@ body {
 }
 
 .h1text {
-    font-family: "EduCursive", cursive;
+    font-family: 'Edu NSW ACT Hand', cursive;
     font-size: 40px;
     font-weight: 400;
 }
